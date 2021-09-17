@@ -656,6 +656,11 @@ section .container {
 .portfolio .portfolio-item {
   margin-bottom: 30px;
 }
+
+.portfolio-item {
+  max-height: 30vh;
+}
+
 .portfolio #portfolio-flters {
   padding: 0;
   margin: 0 auto 15px auto;
